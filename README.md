@@ -1,4 +1,4 @@
-Building a interactive budget app using React (React-Router-dom) and local storage. 
+Building an interactive Personal Home Budget App using React (React-Router-dom) and local storage. 
 
 This is the login page to which you will enter your preferred name:
 ![2025-03-17 (4)](https://github.com/user-attachments/assets/f6dcd612-d495-4ba2-b5c2-7d51594bc889)

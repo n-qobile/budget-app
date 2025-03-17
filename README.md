@@ -9,7 +9,7 @@ You are directed to the page where you can create a budget and/or delete the use
 You can create multiple budgets and see existing budgets:
 ![2025-03-17 (2)](https://github.com/user-attachments/assets/824af299-4ffe-4da9-8c14-cee115e3a664)
 
-You can edit and delete individual budgets. 
+You can edit and delete whole budgets and/or individual budget items. 
 ![2025-03-17 (3)](https://github.com/user-attachments/assets/ffa868ce-93d3-45ae-a31e-1e08e6975ea7)
 
 
